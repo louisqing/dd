@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="47px" height="47px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip2544">
+    <mask fill="white" id="clip2832">
       <path d="M 1769.5 364  C 1756.4575 364  1746 353.5425  1746 340.5  L 1746 340.5  C 1746 327.4575  1756.4575 317  1769.5 317  L 1769.5 317  C 1782.5425 317  1793 327.4575  1793 340.5  L 1793 340.5  C 1793 353.5425  1782.5425 364  1769.5 364  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -1746 -317 )">
-    <path d="M 1746 317  L 1793 317  L 1793 364  L 1746 364  L 1746 317  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2544)" />
-    <path d="M 1749 320  L 1790 320  L 1790 361  L 1749 361  L 1749 320  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip2544)" />
-    <path d="M 1773.965 331.1  C 1771.991 331.1  1770.44 329.549  1770.44 327.575  C 1770.44 325.601  1771.991 324.05  1773.965 324.05  C 1775.939 324.05  1777.49 325.601  1777.49 327.575  C 1777.49 329.549  1775.939 331.1  1773.965 331.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2544)" />
-    <path d="M 1750 360  L 1750 338.55  L 1759.75 328.8  L 1773.4 336.6  L 1781.2 334.65  L 1789 336.6  L 1789 360  L 1750 360  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip2544)" />
+    <path d="M 1746 317  L 1793 317  L 1793 364  L 1746 364  L 1746 317  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2832)" />
+    <path d="M 1749 320  L 1790 320  L 1790 361  L 1749 361  L 1749 320  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip2832)" />
+    <path d="M 1773.965 331.1  C 1771.991 331.1  1770.44 329.549  1770.44 327.575  C 1770.44 325.601  1771.991 324.05  1773.965 324.05  C 1775.939 324.05  1777.49 325.601  1777.49 327.575  C 1777.49 329.549  1775.939 331.1  1773.965 331.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2832)" />
+    <path d="M 1750 360  L 1750 338.55  L 1759.75 328.8  L 1773.4 336.6  L 1781.2 334.65  L 1789 336.6  L 1789 360  L 1750 360  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip2832)" />
   </g>
 </svg>
