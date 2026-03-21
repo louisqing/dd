@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="67px" height="67px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip3424">
+    <mask fill="white" id="clip3714">
       <path d="M 465.5 145  C 446.9075 145  432 130.0925  432 111.5  L 432 111.5  C 432 92.9075  446.9075 78  465.5 78  L 465.5 78  C 484.0925 78  499 92.9075  499 111.5  L 499 111.5  C 499 130.0925  484.0925 145  465.5 145  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -432 -78 )">
-    <path d="M 432 78  L 499 78  L 499 145  L 432 145  L 432 78  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip3424)" />
-    <path d="M 437 83  L 494 83  L 494 140  L 437 140  L 437 83  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip3424)" />
-    <path d="M 471.865 98.1  C 469.051 98.1  466.84 95.889  466.84 93.075  C 466.84 90.261  469.051 88.05  471.865 88.05  C 474.679 88.05  476.89 90.261  476.89 93.075  C 476.89 95.889  474.679 98.1  471.865 98.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip3424)" />
-    <path d="M 439 139  L 439 109.3  L 452.5 95.8  L 471.4 106.6  L 482.2 103.9  L 493 106.6  L 493 139  L 439 139  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip3424)" />
+    <path d="M 432 78  L 499 78  L 499 145  L 432 145  L 432 78  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip3714)" />
+    <path d="M 437 83  L 494 83  L 494 140  L 437 140  L 437 83  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip3714)" />
+    <path d="M 471.865 98.1  C 469.051 98.1  466.84 95.889  466.84 93.075  C 466.84 90.261  469.051 88.05  471.865 88.05  C 474.679 88.05  476.89 90.261  476.89 93.075  C 476.89 95.889  474.679 98.1  471.865 98.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip3714)" />
+    <path d="M 439 139  L 439 109.3  L 452.5 95.8  L 471.4 106.6  L 482.2 103.9  L 493 106.6  L 493 139  L 439 139  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip3714)" />
   </g>
 </svg>
