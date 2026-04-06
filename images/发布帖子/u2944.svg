@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="27px" height="26px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -2425 -1382 )">
-    <path d="M 2425.5 1382.5  L 2451.5 1382.5  L 2451.5 1407.5  L 2425.5 1407.5  L 2425.5 1382.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
-    <path d="M 2425.5 1382.5  L 2451.5 1382.5  L 2451.5 1407.5  L 2425.5 1407.5  L 2425.5 1382.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-    <path d="M 2425.37401241854 1382.36016010675  L 2451.62598758146 1407.63983989325  M 2451.62598758146 1382.36016010675  L 2425.37401241854 1407.63983989325  " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="47px" height="42px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip836">
+      <path d="M 2607 1217  L 2634 1217  L 2634 1239  L 2607 1239  Z M 2596 1206  L 2643 1206  L 2643 1248  L 2596 1248  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -2596 -1206 )">
+    <path d="M 2596.5 1206.5  L 2642.5 1206.5  L 2642.5 1247.5  L 2596.5 1247.5  L 2596.5 1206.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
+    <path d="M 2596.5 1206.5  L 2642.5 1206.5  L 2642.5 1247.5  L 2596.5 1247.5  L 2596.5 1206.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 2596.41721234201 1206.37282805031  L 2642.58278765799 1247.62717194969  M 2642.58278765799 1206.37282805031  L 2596.41721234201 1247.62717194969  " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip836)" />
   </g>
 </svg>
